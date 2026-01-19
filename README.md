@@ -80,6 +80,11 @@ I specialize in building scalable **mobile applications** with **Flutter** and e
   </a>
 </div>
 
+### 🚀 Contribution Activity+
+<p align="center">
+  <img src="https://github.com/barankutluay/barankutluay/blob/main/profile-summary-card-output/transparent/0-profile-details.svg" alt="Baran's GitHub Stats" />
+</p>
+
 ---
 
 <div align="center">
