@@ -54,48 +54,65 @@ I specialize in building scalable **mobile applications** with **Flutter** and e
 
 <div align="center">
 
-  <a href="https://github.com/barankutluay">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=transparent&hide_border=true&count_private=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=transparent&hide_border=true&count_private=true">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=transparent&hide_border=true&count_private=true">
-    </picture>
-  </a>
-  <a href="https://github.com/barankutluay">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
-    </picture>
-  </a>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/barankutluay">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=transparent&hide_border=true&count_private=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=transparent&hide_border=true&count_private=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="200">
+        </picture>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/barankutluay">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" height="180">
+        </picture>
+      </a>
+    </td>
+  </tr>
 
-  <br>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/barankutluay">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
+          <img src="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true" width="80%">
+        </picture>
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://github.com/barankutluay">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
-      <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
-    </picture>
-  </a>
-  <a href="https://github.com/barankutluay">
-    <img height="170" src="profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" />
-  </a>
+  <tr>
+    <td colspan="2" align="center">
+       <img src="profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" width="80%%" />
+    </td>
+  </tr>
 
-  <br>
-  
-  <a href="https://github.com/barankutluay">
-    <img height="160" src="profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Time" />
-  </a>
-  <a href="https://github.com/barankutluay">
-    <img height="160" src="profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Language Pie" />
-  </a>
+  <tr>
+    <td width="50%" align="center">
+       <img src="profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Time" height="200" />
+    </td>
+    <td width="50%" align="center">
+       <img src="profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Commit Pie" height="200" />
+    </td>
+  </tr>
 
-  <br>
+  <tr>
+    <td width="50%" align="center">
+       <img src="profile-summary-card-output/transparent/3-stats.svg" alt="Contribution Wave" height="200" />
+    </td>
+    <td width="50%" align="center">
+       <img src="profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repo Pie" height="200" />
+    </td>
+  </tr>
 
-  <a href="https://github.com/barankutluay">
-    <img width="95%" src="profile-summary-card-output/transparent/3-stats.svg" alt="Contribution Graph" />
-  </a>
+</table>
 
 </div>
 
