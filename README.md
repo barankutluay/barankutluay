@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mobile Apps!<br>👯 I’m looking to collaborate on Flutter!<br>🤝 I’m looking for help with making your apps!<br>🌱 I’m currently learning Rust!<br>💬 Ask me about anything!<br>⚡ Fun fact, this page actually looks awesome!
+🔭 I’m currently working on `Mobile Apps`!<br>👯 I’m looking to collaborate on `Flutter`!<br>🤝 I’m looking for help with making your apps!<br>🌱 I’m currently learning `Rust`!<br>💬 Ask me about anything!<br>⚡ Fun fact, this page actually looks awesome!
 
 
 ## 🌐 Socials:
