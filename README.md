@@ -70,7 +70,7 @@ I specialize in building scalable **mobile applications** with **Flutter** and e
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" height="200">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" height="185">
         </picture>
       </a>
     </td>
