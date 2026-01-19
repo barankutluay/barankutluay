@@ -53,15 +53,28 @@ I specialize in building scalable **mobile applications** with **Flutter** and e
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barankutluay&theme=tokyonight&hide_border=true&show_icons=true" height="180" alt="stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&theme=tokyonight&hide_border=true&layout=compact" height="180" alt="languages" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=tokyonight&hide_border=true" alt="streak" />
+  <a href="https://github.com/barankutluay">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=default&hide_border=true&count_private=true">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=default&hide_border=true&count_private=true">
+    </picture>
+  </a>
+  <a href="https://github.com/barankutluay">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook">
+    </picture>
+  </a>
+  <br>
+  <a href="https://github.com/barankutluay">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=github_dark&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=default&hide_border=true">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=default&hide_border=true">
+    </picture>
+  </a>
 </div>
 
 ---
@@ -72,4 +85,4 @@ I specialize in building scalable **mobile applications** with **Flutter** and e
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@barankutluay)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barankutluay@outlook.com)
 
-</div>
+</div>++
