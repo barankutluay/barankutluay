@@ -70,27 +70,24 @@ I specialize in building scalable **mobile applications** with **Flutter** and e
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" height="180">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" height="200">
         </picture>
       </a>
     </td>
   </tr>
 
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/barankutluay">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
           <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
-          <img src="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true" width="80%">
+          <img src="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true" height="200">
         </picture>
       </a>
     </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" align="center">
-       <img src="profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" width="80%%" />
+    <td width="50%" align="center">
+       <img src="profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" height="200" />
     </td>
   </tr>
 
