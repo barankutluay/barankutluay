@@ -58,14 +58,14 @@ I specialize in building scalable **mobile applications** with **Flutter** and e
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=transparent&hide_border=true&count_private=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=transparent&hide_border=true&count_private=true">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=transparent&hide_border=true&count_private=true">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=transparent&hide_border=true&count_private=true">
     </picture>
   </a>
   <a href="https://github.com/barankutluay">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
     </picture>
   </a>
 
@@ -75,29 +75,26 @@ I specialize in building scalable **mobile applications** with **Flutter** and e
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
       <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
-      <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
+      <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
     </picture>
   </a>
   <a href="https://github.com/barankutluay">
-    <img width="48%" src="profile-summary-card-output/transparent/3-stats.svg" alt="Contribution Graph" />
+    <img height="170" src="profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" />
+  </a>
+
+  <br>
+  
+  <a href="https://github.com/barankutluay">
+    <img height="160" src="profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Time" />
+  </a>
+  <a href="https://github.com/barankutluay">
+    <img height="160" src="profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Language Pie" />
   </a>
 
   <br>
 
   <a href="https://github.com/barankutluay">
-    <img width="48%" src="profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Time" />
-  </a>
-  <a href="https://github.com/barankutluay">
-    <img width="48%" src="profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Card" />
-  </a>
-
-  <br>
-
-  <a href="https://github.com/barankutluay">
-    <img width="48%" src="profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Language Pie" />
-  </a>
-  <a href="https://github.com/barankutluay">
-    <img width="48%" src="profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repo Pie" />
+    <img width="95%" src="profile-summary-card-output/transparent/3-stats.svg" alt="Contribution Graph" />
   </a>
 
 </div>
