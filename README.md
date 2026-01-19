@@ -1,6 +1,6 @@
 # Hi there, I'm Baran! 👋
 
-### 🚀 Senior Mobile Developer & AI Enthusiast
+### 🚀 Mobile Developer & AI Enthusiast
 
 I specialize in building scalable **mobile applications** with **Flutter** and enhancing them with **AI/Data Science** solutions. My expertise bridges the gap between fluid mobile UI and powerful backend intelligence.
 
@@ -23,7 +23,7 @@ I specialize in building scalable **mobile applications** with **Flutter** and e
 
 **🤖 AI, Data Science & Computer Vision**
 <br>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" />
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
@@ -55,24 +55,27 @@ I specialize in building scalable **mobile applications** with **Flutter** and e
 <div align="center">
   <a href="https://github.com/barankutluay">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=default&hide_border=true&count_private=true">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=default&hide_border=true&count_private=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=transparent&hide_border=true&count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=transparent&hide_border=true&count_private=true">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=barankutluay&show_icons=true&theme=transparent&hide_border=true&count_private=true">
     </picture>
   </a>
+
   <a href="https://github.com/barankutluay">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
     </picture>
   </a>
+  
   <br>
+  
   <a href="https://github.com/barankutluay">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=github_dark&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=default&hide_border=true">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=default&hide_border=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=barankutluay&theme=transparent&hide_border=true">
     </picture>
   </a>
 </div>
@@ -85,4 +88,4 @@ I specialize in building scalable **mobile applications** with **Flutter** and e
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@barankutluay)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barankutluay@outlook.com)
 
-</div>++
+</div>
