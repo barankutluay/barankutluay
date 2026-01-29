@@ -70,7 +70,7 @@ I specialize in building scalable **mobile applications** with **Flutter** and e
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" height="185">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barankutluay&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" height="185">
         </picture>
       </a>
     </td>
@@ -105,7 +105,7 @@ I specialize in building scalable **mobile applications** with **Flutter** and e
        <img src="profile-summary-card-output/transparent/3-stats.svg" alt="Contribution Wave" height="200" />
     </td>
     <td width="50%" align="center">
-       <img src="profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repo Pie" height="200" />
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barankutluay&theme=transparent&exclude=jupyter%20notebook" alt="Repo Pie" height="200" />
     </td>
   </tr>
 
